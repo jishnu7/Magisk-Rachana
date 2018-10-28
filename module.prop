@@ -1,0 +1,7 @@
+id=magisk-rachana
+name=Rachana
+version=v1.6
+versionCode=1
+author=jishnu7
+description=Use Rachana as default font for Malayalam
+minMagisk=17000
